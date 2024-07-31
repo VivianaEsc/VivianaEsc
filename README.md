@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Viviana Sinchiguano 
-- 👀 I’m interested in: Big Data, back-end develop
+- 👀 I’m interested in: Big Data analysis, back-end develop
 - 🌱 I’m currently learning:  AZURE AZ-900 certification 
 - 💞️ I’m looking to collaborate on  Big Data analysis projects 
 - 📫 How to reach me
